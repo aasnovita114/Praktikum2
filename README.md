@@ -1,4 +1,4 @@
-**Hallo nama saya Cahyo Hidayatullah. Saya membuat ini untuk memenuhi tugas saya.**  
+**Hallo nama saya Aas Novitasari. Saya membuat ini untuk memenuhi tugas saya.**  
 
 **Instalasi Python**
 
@@ -29,8 +29,8 @@
 
 • Buka CMD kalian lalu masukan perintah (Python) untuk menghubungkan CMD kalian dengan Python.
 
-![Screenshot (31)](https://user-images.githubusercontent.com/115677959/197392906-cb480573-f6f1-4da9-8aa9-be259dc86c5f.png)
-    • Jika tampilan sudah seperti gambar diatas lali masukkan perintan seperti dibawah ini.
+   ![Uploading Capture21.PNG…]()
+ • Jika tampilan sudah seperti gambar diatas lali masukkan perintan seperti dibawah ini.
         
         print("Hello")
         print("Saya sedang belajar pemrograman")
